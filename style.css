@@ -1,0 +1,32 @@
+body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background: #81b5d6;
+}
+input[type=text],input[type=email],input[type=submit],
+input[type=password] {
+  color:#FFF;
+  background: #68add8; /* Old browsers */
+  background: linear-gradient(45deg,  #68add8 0%,#8cbede 100%); /* W3C */
+  width:110px;
+  height:40px;
+  margin: 0 auto 10px auto;
+  font-size:14px;
+  padding-left:15px;
+  border:none;
+  box-shadow: -3px 3px #679acb ;
+  -webkit-appearance:none;
+  border-radius:0;
+  border-top: 1px solid #92c5e2;
+  border-right: 1px solid #92c5e2;
+}
+h3{
+	text-align: center;
+	padding-top:150px;
+}
